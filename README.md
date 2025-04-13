@@ -1,4 +1,4 @@
 # ssh-gui
 run:
 
-cargo build && python ui/main.py 
+cargo build && cd ui && python main.py 
